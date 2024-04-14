@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Avion
+comment1.params=
+comment1.target=Avion()
+comment2.params=butaca
+comment2.target=void\ butacaOcupada(Butaca)
+comment3.params=butaca
+comment3.target=void\ butacaDescartada(Butaca)
+comment4.params=
+comment4.target=Butaca\ getUnaButacaDisponible()
+comment5.params=butaca
+comment5.target=java.lang.Boolean\ verificarDisponible(Butaca)
+comment6.params=
+comment6.target=Butaca\ getUnaButacaOcupada()
+comment7.params=butaca
+comment7.target=java.lang.Boolean\ verificarOcupado(Butaca)
+comment8.params=
+comment8.target=Butaca\ getUnaButacaChecked()
+comment9.params=butaca
+comment9.target=java.lang.Boolean\ verificarChecked(Butaca)
+numComments=10
